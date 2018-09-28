@@ -20,7 +20,7 @@ Recruit vermist: Nelfrid Sor. Vrijgemaakte slaaf.
 ## Band of the Palm
 In de *Coins*, werken met kappers als front.
 
-## Frogs tongue
+## Puddles / Frogs tongue
 - restaurant
 - vermiste collega: Justerian
 - Dalia, human, female, kok
@@ -39,3 +39,13 @@ In de *Coins*, werken met kappers als front.
 - Death by clawmarks
 
 Potions: nectar of purification, minor elixir of live
+
+## Sewer Kobolt Tribe
+- Dragonspeaker Angasas
+- Dragonsharks rival tribe
+    - Spellcaster and warriors
+- Fasgyn
+- Load oaf ally left them
+
+Scroll of disguise
+Hat of disguise
