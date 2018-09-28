@@ -6,9 +6,9 @@
 
 ## Team
 - Arthal
-- Liki (dwarf, hireling)
-- ... (elf, cleric)
-- ... (dwarf, druid of the storm)
+- Limki (dwarf, hireling)
+- Alit (elf, cleric desna)
+- Thoralyn (dwarf, druid of the storm)
 
 Recruit vermist: Nelfrid Sor. Vrijgemaakte slaaf.
 
@@ -28,3 +28,10 @@ In de *Coins*, werken met kappers als front.
     - bang voor underground slavers
     - vermist sinds 3 dagen
     - woonde in de buurt
+
+### Justerian's home
+- Detripid manor
+- Ooze and bats
+- Deathshead moths (sacred for Urgothoa) and corpse flies
+- Dried blood (not that much) and club with hair
+- Holy symbol of Milani (devotion, hope, uprising)
