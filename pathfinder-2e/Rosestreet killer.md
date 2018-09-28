@@ -45,8 +45,8 @@ Items:
 - Dragonspeaker Angasas
 - Dragonsharks rival tribe
     - Spellcaster and warriors
-- Fasgyn
-- Load oaf ally left them
+- Fasgyn (ranger/trapper)
+- Lazy oaf ally left them???
 
 Loot:
 - Scroll of disguise
