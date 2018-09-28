@@ -38,7 +38,8 @@ In de *Coins*, werken met kappers als front.
 - Letter from "W" who offered him help
 - Death by clawmarks
 
-Potions: nectar of purification, minor elixir of live
+Items:
+- Potions: nectar of purification, minor elixir of live
 
 ## Sewer Kobolt Tribe
 - Dragonspeaker Angasas
@@ -47,5 +48,6 @@ Potions: nectar of purification, minor elixir of live
 - Fasgyn
 - Load oaf ally left them
 
-Scroll of disguise
-Hat of disguise
+Loot:
+- Scroll of disguise
+- Hat of disguise
