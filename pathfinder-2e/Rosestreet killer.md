@@ -30,8 +30,8 @@ In de *Coins*, werken met kappers als front.
     - woonde in de buurt
 
 ### Justerian's home
-- Detripid manor
-- Ooze and bats
+- Old manor
+- Ooze and batswarm
 - Deathshead moths (sacred for Urgothoa) and corpse flies
 - Dried blood (not that much) and club with hair (undead origin)
 - Holy symbol of Milani (devotion, hope, uprising)
@@ -45,8 +45,10 @@ Items:
 - Dragonspeaker Angasas
 - Dragonsharks rival tribe
     - Spellcaster and warriors
+    - From other part of the island
 - Fasgyn (ranger/trapper)
 - Lazy oaf ally left them???
+- Journal of Milani worshipper in contact with 
 
 Loot:
 - Scroll of disguise
