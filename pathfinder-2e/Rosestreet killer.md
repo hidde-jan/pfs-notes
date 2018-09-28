@@ -59,6 +59,8 @@ Loot:
 - Sign resembles holy symbol of Milani
 - Wennel
 - Urgathoa
-- 
+- Maand geleden voor het laatst gezien door Nelfurhin
+- Hij had nog een missie, ondergrondse slaver ring
+- Ondood door Urgathoa
 
 
