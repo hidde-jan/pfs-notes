@@ -32,7 +32,7 @@ In de *Coins*, werken met kappers als front.
 ### Justerian's home
 - Old manor
 - Ooze and batswarm
-- Deathshead moths (sacred for Urgothoa) and corpse flies
+- Deathshead moths (sacred for Urgathoa) and corpse flies
 - Dried blood (not that much) and club with hair (undead origin)
 - Holy symbol of Milani (devotion, hope, uprising)
 - Letter from "W" who offered him help
@@ -57,7 +57,8 @@ Loot:
 ## Tavern Sanguin Thorn
 - In sinkhole
 - Sign resembles holy symbol of Milani
+- Wennel
+- Urgathoa
 - 
-
 
 
