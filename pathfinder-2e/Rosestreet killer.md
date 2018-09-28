@@ -33,5 +33,9 @@ In de *Coins*, werken met kappers als front.
 - Detripid manor
 - Ooze and bats
 - Deathshead moths (sacred for Urgothoa) and corpse flies
-- Dried blood (not that much) and club with hair
+- Dried blood (not that much) and club with hair (undead origin)
 - Holy symbol of Milani (devotion, hope, uprising)
+- Letter from "W" who offered him help
+- Death by clawmarks
+
+Potions: nectar of purification, minor elixir of live
