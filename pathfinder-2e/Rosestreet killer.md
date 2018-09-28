@@ -53,3 +53,11 @@ Items:
 Loot:
 - Scroll of disguise
 - Hat of disguise
+
+## Tavern Sanguin Thorn
+- In sinkhole
+- Sign resembles holy symbol of Milani
+- 
+
+
+
